@@ -19,5 +19,6 @@ public class ResetPosition : MonoBehaviour
         {
             transform.position = positionDeDepart;
         }
+      
     }
 }
